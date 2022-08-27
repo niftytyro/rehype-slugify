@@ -1,0 +1,35 @@
+{
+  "name": "rehype-slugify",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "plugin to add id attributes with custom function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niftytyro/rehype-slugify.git"
+  },
+  "author": "Udasi Tharani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niftytyro/rehype-slugify/issues"
+  },
+  "keywords": [
+    "unified",
+    "rehype",
+    "rehype-plugin",
+    "plugin",
+    "html",
+    "markdown",
+    "slug"
+  ],
+  "homepage": "https://github.com/niftytyro/rehype-slugify#readme",
+  "dependencies": {
+    "hast-util-has-property": "^2.0.0",
+    "hast-util-heading": "^2.0.0",
+    "hast-util-to-string": "^2.0.0",
+    "unist-util-visit": "^4.1.1"
+  }
+}
