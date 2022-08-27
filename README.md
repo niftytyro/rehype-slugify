@@ -1,6 +1,6 @@
 # rehype-slugify
 
-(`rehype`)[https://github.com/rehypejs/rehype] plugin to add ids to headings with a custom slugify function.
+[`rehype`](https://github.com/rehypejs/rehype) plugin to add ids to headings with a custom slugify function.
 
 ## Installation
 
